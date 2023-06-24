@@ -1,1 +1,1 @@
-[![NoTalkingPlease's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTalkingPlease)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![NoTalkingPlease's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTalkingPlease&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
